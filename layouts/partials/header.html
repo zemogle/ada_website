@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1315386-20"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-1315386-20');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Ada's Adventures in Science">
+    <meta name="author" content="Edward Gomez">
+    <title>
+      Ada's Adventures in Science
+      {{ if eq .URL "/" }}
+          {{ .Site.Title }}
+      {{ else }}
+          {{ .Title }} &middot; {{ .Site.Title }}
+      {{ end }}
+    </title>
+    <link href="https://fonts.googleapis.com/css?family=Acme|Bangers" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/normalize.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "/css/skeleton.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "/css/styles.css" | absURL }}">
+    <link rel="icon" href="{{ "/images/favicon.png"| absURL }}">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="navbar-spacer"></div>
+       <nav class="navbar">
+         <div class="container">
+           <ul class="navbar-list">
+               {{ range .Site.Menus.main }}
+             <li class="navbar-item">
+               <a href="{{ .URL | absURL }}" class="navbar-link">{{ .Name }}</a>
+             </li>
+               {{ end }}
+           </ul>
+         </div>
+       </nav>
+
+      <section class="header">
+        <img src="{{ "/images/title_wide.jpg" | absURL }}" alt="Ada's Adventures in Science header" class="u-max-full-width"/>
+      </section>

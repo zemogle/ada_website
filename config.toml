@@ -1,0 +1,47 @@
+BaseUrl= "http://www.yearzero.me.uk/"
+LanguageCode= "en-GB"
+Title= "Year Zero"
+paginate = 5
+Copyright = "Copyright 2017 - Dark Matter Sheep"
+canonifyurls = true
+
+[permalinks]
+
+    # Permalink format for pages.
+    page = "/:title/"
+
+    # Permalink format for blog posts.
+    post = "/news/:title/"
+
+[params]
+  description = "Ada's Adventures in Science"
+  cover = "images/cover.jpg"
+  logo = "/static/images/year_zero.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  hideHUGOSupport = true
+  DateForm = ""
+  twitter = "http://twitter.com/#AdaComics"
+  colorscheme = "teal"
+
+[Date]
+    Format = "yyyy-mm-dd"
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Comics"
+    url = "/comics/"
+    weight = 2
+
+
+[[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4

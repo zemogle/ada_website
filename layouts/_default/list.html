@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+<section>
+    <div class="row">
+      <h1>News</h1>
+    </div>
+    <div class="row">
+        {{ $pag := .Paginate .Data.Pages }}
+        {{ range $pag.Pages }}
+        <div class="article">
+          <div class="article-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+          <div class="article-info">
+              {{ .Date.Format "Mon, Jan 02, 2006" }}
+          </div>
+           <p class="post-summary">{{ .Summary | plainify | htmlUnescape }}...</p>
+         </div>
+        {{ end }}
+      </ul>
+
+    <div class="post-navigation">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
+</section>
+{{ partial "footer.html" . }}
