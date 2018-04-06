@@ -1,4 +1,4 @@
-BaseUrl= "http://www.yearzero.me.uk/"
+BaseUrl= "http://www.adacomic.uk/"
 LanguageCode= "en-GB"
 Title= "Year Zero"
 paginate = 5
@@ -16,11 +16,11 @@ canonifyurls = true
 [params]
   description = "Ada's Adventures in Science"
   cover = "images/cover.jpg"
-  logo = "/static/images/year_zero.png"
-  googleAnalyticsUserID = "UA-79101-12"
+  logo = "/static/images/adventures_in_science.jpg"
+  googleAnalyticsUserID = "UA-1315386-20"
   hideHUGOSupport = true
   DateForm = ""
-  twitter = "http://twitter.com/#AdaComics"
+  twitter = "http://twitter.com/#AdaComic"
   colorscheme = "teal"
 
 [Date]
