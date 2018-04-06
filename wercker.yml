@@ -3,7 +3,6 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.17
-        flags: --disableSitemap=true
 deploy:
   steps:
     # Execute the s3sync deploy step, a step provided by wercker
