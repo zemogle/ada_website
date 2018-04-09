@@ -19,7 +19,7 @@ tags = ['comics']
 
   <div class="eight columns">
   <p>PDF Downloads</p>
-  <p><a href="" class="text-link">English</a> | <a href="" class="text-link">Espa&ntilde;ol</a> | <a href="" class="text-link">Deutsch</a> | <a href="" class="text-link">Cymraeg</a></p>
+  <p><a href="" class="text-link">English</a> | <a href="" class="text-link">Espa&ntilde;ol</a> | <a href="" class="text-link">Deutsche</a> | <a href="" class="text-link">Cymraeg</a></p>
   </div>
 </div>
 
