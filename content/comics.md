@@ -8,6 +8,7 @@ tags = ['comics']
 
 <div class="row">
   <h3>Compilation Comic</h3>
+  <p>Coming soon...</a>
 </div>
 <div class="row">
   <div class="four columns">
