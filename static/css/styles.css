@@ -1,6 +1,5 @@
-body {
+body, .navbar-item {
 font-family: 'Acme', sans-serif;
-text-align: center;
 }
 
 .sensation {
@@ -9,6 +8,10 @@ text-align: center;
 
 .article {
   text-align: left;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: center;
 }
 
 
@@ -23,7 +26,12 @@ p.small {
   text-align:center;
 }
 
-a h3, a h1, a h2, a h4 {
+ul , li {
+  font-family: sans-serif;
+  font-size:1.2em;
+}
+
+a {
   color:coral;
   text-decoration: none;
 }
@@ -89,6 +97,7 @@ a.button-secondary:hover {
 
 .sponsors img {
   max-width:100px;
+  text-align: center;
 }
 
 .article-title {

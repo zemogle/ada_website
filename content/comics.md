@@ -23,7 +23,7 @@ tags = ['comics']
     <li>Espa&ntilde;ol <a href="/static/ada_booklet_ES.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_ES.pdf" class="text-link">Full page format</a></li>
     <li>Deutsche <a href="/static/ada_booklet_DE.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_DE.pdf" class="text-link">Full page format</a></li>
     <li>Cymraeg <a href="/static/ada_booklet_CY.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_CY.pdf" class="text-link">Full page format</a></li>
-  </ul
+  </ul>
   </div>
 </div>
 
