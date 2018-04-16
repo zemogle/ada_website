@@ -19,10 +19,10 @@ tags = ['comics']
   <div class="eight columns">
   <p>PDF Downloads</p>
   <ul>
-    <li>English <a href="/static/ada_booklet_EN.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_EN.pdf" class="text-link">Full page format</a></li>
-    <li>Espa&ntilde;ol <a href="/static/ada_booklet_ES.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_ES.pdf" class="text-link">Full page format</a></li>
-    <li>Deutsch <a href="/static/ada_booklet_DE.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_DE.pdf" class="text-link">Full page format</a></li>
-    <li>Cymraeg <a href="/static/ada_booklet_CY.pdf" class="text-link">Booklet format</a> | <a href="/static/ada_full_CY.pdf" class="text-link">Full page format</a></li>
+    <li>English <a href="/comics/ada_booklet_EN.pdf" class="text-link">Booklet format</a> | <a href="/comics/ada_full_EN.pdf" class="text-link">Full page format</a></li>
+    <li>Espa&ntilde;ol <a href="/comics/ada_booklet_ES.pdf" class="text-link">Booklet format</a> | <a href="/comics/ada_full_ES.pdf" class="text-link">Full page format</a></li>
+    <li>Deutsch <a href="/comics/ada_booklet_DE.pdf" class="text-link">Booklet format</a> | <a href="/comics/ada_full_DE.pdf" class="text-link">Full page format</a></li>
+    <li>Cymraeg <a href="/comics/ada_booklet_CY.pdf" class="text-link">Booklet format</a> | <a href="/comics/ada_full_CY.pdf" class="text-link">Full page format</a></li>
   </ul>
   </div>
 </div>
