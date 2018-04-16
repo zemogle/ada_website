@@ -1,6 +1,6 @@
 BaseUrl= "http://www.adacomic.uk/"
 LanguageCode= "en-GB"
-Title= "Year Zero"
+Title= "Ada's Adventures in Science"
 paginate = 5
 Copyright = "Copyright 2017 - Dark Matter Sheep"
 canonifyurls = true
@@ -15,8 +15,8 @@ canonifyurls = true
 
 [params]
   description = "Ada's Adventures in Science"
-  cover = "images/cover.jpg"
-  logo = "/static/images/adventures_in_science.jpg"
+  cover = "/images/cover.jpg"
+  logo = "/images/adventures_in_science.jpg"
   googleAnalyticsUserID = "UA-1315386-20"
   hideHUGOSupport = true
   DateForm = ""
