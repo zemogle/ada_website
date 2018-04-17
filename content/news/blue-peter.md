@@ -1,6 +1,6 @@
 ---
 title: "Ada wins Blue Peter badges"
-date: 2018-04-7T10:10:04+01:00
+date: 2018-04-07T10:10:04Z
 draft: false
 ---
 
