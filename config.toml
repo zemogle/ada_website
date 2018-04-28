@@ -45,3 +45,8 @@ canonifyurls = true
     name = "About"
     url = "/about/"
     weight = 4
+
+[[menu.main]]
+    name = "Shop"
+    url = "/shop/"
+    weight = 5

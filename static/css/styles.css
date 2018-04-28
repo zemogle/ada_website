@@ -36,7 +36,20 @@ a {
   text-decoration: none;
 }
 
+.responsive {
+    width: 100%;
+    height: auto;
+}
 
+.icon-level {
+  height:300px;
+}
+
+.icon-level img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
 
 a.text-link {
   text-decoration: none;
