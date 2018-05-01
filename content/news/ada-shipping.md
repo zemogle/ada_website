@@ -1,7 +1,7 @@
 ---
 title: "Ada's Adventures in Shipping"
 date: 2018-04-27T19:57:34+01:00
-draft: true
+draft: false
 ---
 We have just taken delivery of 15,000 copies of Ada's Adventures in Science. That breaks down as 200 German copies, 800 Welsh copies, 3000 Spanish copies, and 11,000 English copies. They are filling a corner of Edward's shared office in Cardiff University.
 
