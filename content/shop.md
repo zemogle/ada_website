@@ -5,13 +5,19 @@ title = "Buy + Give"
 
 +++
 
-Now is your chance to buy a pack of 30 comics for your school, homeschool group or club!
+Now is your chance to receive a pack of 30 comics for your school, homeschool group, club, or just to share with your friends!
+
+![Classroom pack](/media/classroom_pack.jpg)
 
 Each pack comes with:
 
 - 30 copies of Ada's Adventures in Science (English language)
 - 30 Ada stickers
 - 2 educational activities
+
+With every classroom pack ordered we will donate a pack of 30 comics to a school in a disadvantaged part of the World.
+
+## All for &pound; 30 (+postage and packing)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -21,4 +27,4 @@ Each pack comes with:
 </form>
 
 
-With every classroom pack bought we will donate a pack of 30 comics to a school in a disadvantaged part of the World. The schools we donate to are selected by our international education partners [Universe Awareness](http://unawe.org), [IAU Office of Astronomy for Development](http://www.astro4dev.org) and [Astronomers without Borders](http://astronomerswithoutborders.org).
+*The schools we donate to are selected by our international education partners [Universe Awareness](http://unawe.org), [IAU Office of Astronomy for Development](http://www.astro4dev.org) and [Astronomers without Borders](http://astronomerswithoutborders.org).*

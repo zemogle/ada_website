@@ -1,9 +1,9 @@
 ---
 title: "Sold Out"
 date: 2018-05-23T10:35:08+01:00
-draft: true
+draft: false
 ---
 
-I'm afraid we are currently sold out of Ada's Adventures in Science (English language).
+We are currently sold out of Ada's Adventures in Science (English language).
 
 Please contact us for more information about the availability.
