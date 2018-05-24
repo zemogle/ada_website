@@ -1,7 +1,7 @@
 ---
 title: "My Adventure in Science"
 date: 2018-05-23T16:24:58+01:00
-draft: true
+draft: false
 ---
 
 This activity blends scientific vocabulary, collaboration, creativity and artistic skills. Students are introduced to Ada’s adventures and how to convey ideas and information with a comic book. The students create their own comic strip to tell a science story using given themes and words.
