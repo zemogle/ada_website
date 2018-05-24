@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <section>
     <div class="row">
-      <h1>News</h1>
+      <h1>{{.Title}}</h1>
     </div>
     <div class="row">
         {{ $pag := .Paginate .Data.Pages }}

@@ -20,7 +20,7 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-1315386-20"
   hideHUGOSupport = true
   DateForm = ""
-  twitter = "http://twitter.com/#AdaComic"
+  twitter = "http://twitter.com/AdaComics"
   colorscheme = "teal"
 
 [Date]
@@ -47,6 +47,11 @@ canonifyurls = true
     weight = 4
 
 [[menu.main]]
+    name = "Education"
+    url = "/education/"
+    weight = 5
+
+[[menu.main]]
     name = "Shop"
     url = "/shop/"
-    weight = 5
+    weight = 6
