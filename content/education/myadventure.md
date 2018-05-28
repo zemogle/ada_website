@@ -12,11 +12,12 @@ This activity blends scientific vocabulary, collaboration, creativity and artist
 
 ## Resources
 
-- Enough copies of the comic books for the students to have 1 each
-- “Introducing My Adventure in Science” Presentation
-- Science vocabulary list
-- Theme list
-- Comic strip template
+- "Introducing My Adventure in Science" Presentation
+- A digital projector *or* you can use the copies of the comic book with all the students
+- [Science vocabulary list](/activity/science_word_list.pdf)
+- [Scenario list](/activity/scenario_list.pdf)
+- [Comic strip template](/activity/Ada_My_Adventure_in_Science.pdf)
+- [Copies of Ada’s Adventures in Science](/comics/)
 
 ## Evaluation
 
@@ -53,7 +54,8 @@ Marks should not be given for how well the comic strip is draw but how they use 
 
 ## Activity
 
-- Introduce Ada’s Adventures in Science using the powerpoint presentation
+Introduce Ada’s Adventures in Science using the powerpoint presentation. The aim of the introduction is to show how to communicate scientific, and potentially complex, ideas using comic books.
+
 - Split students into groups of around 2-3 (if they are already in groups, then you can just use those)
 - Give each group 6 words from Science Word List.
 - Give each group 1 Scenario from the Scenario List

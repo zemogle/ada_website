@@ -13,10 +13,10 @@ This activity blends scientific vocabulary, collaboration, creativity and artist
 
 ## Resources
 
-- Introduction to Ada presentation PDF or Powerpoint
-- What Happened Next comic template (enough for 1 between 2-3)
-- A digital projector (or copies of the comic book for all the students)
-- Copies of Ada’s Adventures in Science
+- Introduction to Ada presentation - [PDF](/activity/introducing_ada.pdf) or [Powerpoint](/activity/introducing_ada.pptx)
+- [What Happened Next comic template](/activity/Ada_what_happened_next.pdf) (enough for 1 between 2-3)
+- A digital projector *or* you can use the copies of the comic book with all the students
+- [Copies of Ada’s Adventures in Science](/comics/)
 
 ## Evaluation
 
@@ -24,7 +24,10 @@ We want to see if the students’ perceptions of science and scientists have cha
 
 Before the activity ask the students how much they identify with these statements:
 
-  - I am excited to learn about science; Science is boring; I would like to be a scientist; I believe that I could be a scientist
+- I am excited to learn about science;
+- Science is boring;
+- I would like to be a scientist;
+- I believe that I could be a scientist
 
 After the activity ask them how much they identify with similar statements to the start:
 
