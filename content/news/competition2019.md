@@ -8,13 +8,14 @@ We are launching a competition for schools in EU to receive sets of Ada's Advent
 
 ## How to enter
 
-- Complete the ["What happened next?"](/education/next/) activity with your students?
-- Select comic book ending from your students to submit, then
+- Complete the ["What happened next?"](/education/next/) activity with your students.
+- Select comic book endings from your students to submit.
+- Complete [the entry Form](https://forms.gle/H2XUJVQsQxABKyf56), then
 
 Either:
 
-- Complete [the entry Form and upload their scanned comic book endings](https://forms.gle/H2XUJVQsQxABKyf56)
-- *OR* [complete the entry form](https://forms.gle/H2XUJVQsQxABKyf56) and post the comic book endings to:
+- Scan and email the entries to <a href="mailto:hello@adacomic.uk">hello@adacomic.uk</a>
+- *OR* post the entries to:
 
 Dr Edward Gomez,<br/>
 School of Physics & Astronomy,<br/>
