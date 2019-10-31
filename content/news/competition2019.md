@@ -38,5 +38,5 @@ UK
 - Applications can only be from a teacher, school or home educator
 - We can only send to schools in EU, because of customs charges between UK and other countries
 
-## Closing date: 1 November 2019
+## Closing date: 8 November 2019
 <img class="responsive" src="/media/classroom_pack.jpg" />
