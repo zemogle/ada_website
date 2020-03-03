@@ -14,7 +14,7 @@
     <meta name="description" content="Ada's Adventures in Science">
     <meta name="author" content="Edward Gomez">
     <title>
-      {{ if eq .URL "/" }}
+      {{ if eq .RelPermalink "/" }}
           {{ .Site.Title }}
       {{ else }}
           {{ .Title }} &middot; {{ .Site.Title }}
@@ -37,7 +37,7 @@
            <ul class="navbar-list">
                {{ range .Site.Menus.main }}
              <li class="navbar-item">
-               <a href="{{ .URL | absURL }}" class="navbar-link">{{ .Name }}</a>
+               <a href="{{  .URL }}" class="navbar-link">{{ .Name }}</a>
              </li>
                {{ end }}
            </ul>
