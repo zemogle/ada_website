@@ -30,3 +30,12 @@ Because we believe in inclusivity and equity these comic books are available wit
 ## Sharing around the world
 
 In early 2018 we ran a [Kickstarter campaign](https://www.kickstarter.com/projects/718137297/adas-adventures-in-science) to print and send comic books to schools around the world. We are very pleased that because of the success of this campaign and are sending over 15,000 comic books in English, German, Spanish and Welsh to schools in USA, UK, Colombia, Austria, Netherlands, South Africa, Zambia and Nigeria.
+
+## Translations
+
+Although the initial translations of Ada were performed by translation companies, the community has been kind enough to provide translations for:
+
+- монгол хэл (Mongolian) - Tsolman Renchin
+- தமிழ் (Tamil) - Fathima Nafla &amp; Subath Amaradasa
+
+Also big thanks to Alice Hopkinson for typsetting these new language versions.
