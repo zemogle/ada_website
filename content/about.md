@@ -37,5 +37,6 @@ Although the initial translations of Ada were performed by translation companies
 
 - монгол хэл (Mongolian) - Tsolman Renchin
 - தமிழ் (Tamil) - Fathima Nafla &amp; Subath Amaradasa
+- Polski (Polish) - Monika Sitek
 
 Also big thanks to Alice Hopkinson for typesetting these new language versions.
