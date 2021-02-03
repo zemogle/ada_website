@@ -7,7 +7,7 @@ tags = ['about']
 +++
 
 
-Comic Books are an engaging and graphical way to introduce science topics to a diverse audience. As comic book geeks and as a scientist and artist partnership, we ([Edward Gomez](http://edward.gomez.me.uk) and [Laura Sorvala](http://www.auralab.co.uk)) created 3 comic books, starting with “There’s no such thing as a stupid question”. We wanted not only to excite kids about science but to empower them to do science. We thought a believable, relatable character having exciting adventures was the way to do it.
+Comic Books are an engaging and graphical way to introduce science topics to a diverse audience. As comic book geeks and as a scientist and artist partnership, we ([Edward Gomez](http://edward.gomez.me.uk) and [Laura Sorvala](https://www.laurasorvala.com/)) created 3 comic books, starting with “There’s no such thing as a stupid question”. We wanted not only to excite kids about science but to empower them to do science. We thought a believable, relatable character having exciting adventures was the way to do it.
 
 ![The 3 comic books making up "Ada's Adventures in Science"](/media/comics.jpg)
 
