@@ -40,5 +40,6 @@ Although the initial translations of Ada were performed by translation companies
 - Polski (Polish) - Monika Sitek
 - Français (French) - Manon Boutin-Charles
 - Português (Portuguese) - Ana Costa
+- (Dutch) - Sanne van Gammeren &amp; Carmen Turner
 
 Also big thanks to Alice Hopkinson for typesetting these new language versions.
