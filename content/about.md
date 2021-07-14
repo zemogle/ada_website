@@ -42,5 +42,7 @@ Although the initial translations of Ada were performed by translation companies
 - Português (Portuguese) - Ana Costa
 - Nederlands (Dutch) - Sanne van Gammeren &amp; Carmen Turner
 - සිංහල (Sinhala) - Bhathiya Senavirathna &amp; Subath Amaradasa
+- 简体中文 (Simplified Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
+- 繁體中文 (Tradiational Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
 
 Also big thanks to Alice Hopkinson for typesetting these new language versions.
