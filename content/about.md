@@ -29,7 +29,7 @@ Because we believe in inclusivity and equity these comic books are available wit
 
 ## Sharing around the world
 
-In early 2018 we ran a [Kickstarter campaign](https://www.kickstarter.com/projects/718137297/adas-adventures-in-science) to print and send comic books to schools around the world. We are delighted that because of the success of this campaign, we were able to send over 15,000 comic books in English, German, Spanish and Welsh to schools in USA, UK, Austria, Netherlands, Ireland, Spain, Germany, Mongolia, Pakistan, Uruguay, Colombia, Puerto Rico, Ghana, Nigeria, South Africa, and Zambia.
+In early 2018 we ran a [Kickstarter campaign](https://www.kickstarter.com/projects/718137297/adas-adventures-in-science) to print and send comic books to schools around the world. We are delighted that because of the success of this campaign, we were able to send over 15,000 comic books in English, German, Spanish and Welsh to schools in USA, UK, Austria, Netherlands, Ireland, Spain, Germany, Romania, Mongolia, Pakistan, Uruguay, Colombia, Puerto Rico, Ghana, Nigeria, South Africa, and Zambia.
 
 ## Translations
 
