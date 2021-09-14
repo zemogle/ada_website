@@ -44,5 +44,6 @@ Although the initial translations of Ada were performed by translation companies
 - සිංහල (Sinhala) - Bhathiya Senavirathna &amp; Subath Amaradasa
 - 简体中文 (Simplified Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
 - 繁體中文 (Tradiational Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
+- اَلْعَرَبِيَّةُ (Arabic) - Alaa Ibrahim, Fatema al-Awaid &ampl Ghaydah al-Jabri
 
 Also big thanks to Alice Hopkinson for typesetting these new language versions.
