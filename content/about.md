@@ -45,5 +45,6 @@ Although the initial translations of Ada were performed by translation companies
 - 简体中文 (Simplified Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
 - 繁體中文 (Tradiational Chinese) - Ye Haoyang (叶昊扬) &amp; Shu-Wei Wang (王書瑋)
 - اَلْعَرَبِيَّةُ (Arabic) - Alaa Ibrahim, Fatema al-Awaid &ampl Ghaydah al-Jabri
+- 日本語 (Japanese) - Akihiko Tomita (富田 晃彦)
 
 Also big thanks to Alice Hopkinson for typesetting these new language versions.
