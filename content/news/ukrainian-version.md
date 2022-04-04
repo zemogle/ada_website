@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Version"
 date: 2022-04-04T11:39:05+01:00
-draft: true
+draft: false
 ---
 To celebrate publishing a Ukrainian version of Ada's Adventures in Science we are offering a free copy of Ada's Adventures in Science to anyone (in UK) who donates more than £2. We are using Collection Pot to collect this money and will donate everything collected to the charity [Voices of Children](https://voices.org.ua/en/) which helps children who have experienced trauma.
 
